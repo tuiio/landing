@@ -6,7 +6,7 @@ Unlike BO2 and MW3 our dedicated servers are:
 * Ranked
 * Stable
 * Lightweight
-* Hosted by our community for our community
+* Hosted by our comunity for our comunity
 * Allow the server hosters to define their own set rules.
   * From Crouch servers, to Hide and Seek, to 18 players FFA without any rules, anything is possible.
 * Modable
